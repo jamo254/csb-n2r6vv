@@ -1,0 +1,2 @@
+(this["webpackJsonpjob-portal"]=this["webpackJsonpjob-portal"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var r=c(1),o=c(3),n=(c(12),c(0));function s(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h2",{children:"Search For Jobs"}),Object(n.jsx)("input",{type:"text",placeholder:"Search for job"})]})}var j=document.getElementById("root");Object(o.createRoot)(j).render(Object(n.jsx)(r.StrictMode,{children:Object(n.jsx)(s,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.b351374b.chunk.js.map
